@@ -12,6 +12,8 @@ Desenvolvimento Frontend: Atuando como o principal responsável pela interface d
 
 Tecnologias: React para a construção da interface e Tailwind CSS para um design rápido e moderno.
 
+Link para o projeto: https://github.com/wesley1812/ConecteCare
+
 ## Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/wesley-silva-de-andrade/
