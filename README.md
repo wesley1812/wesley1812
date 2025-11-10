@@ -6,7 +6,7 @@ Eu me chamo Wesley Silva, tenho 25 anos e sou um desenvolvedor brasileiro focado
 
 Estudante de Análise e Desenvolvimento de Sistemas e entusiasta de Tecnologia na FIAP. Atualmente no primeiro ano, estou focado em construir uma base sólida em desenvolvimento de software. Minha maior paixão e aptidão reside no desenvolvimento backend, com um forte foco em Java. Tenho dedicado meus estudos e tempo a me aprofundar no ecossistema da linguagem.
 
-No entanto, sou um desenvolvedor versátil e orientado a projetos! Meu projeto mais recente me deu experiência prática em:
+No entanto, meu projeto mais recente me deu experiência prática bem diferente do que estava habituado:
 
 Desenvolvimento Frontend: Atuando como o principal responsável pela interface do usuário.
 
