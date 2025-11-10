@@ -44,9 +44,7 @@ Plataforma de saúde que integra pacientes e cuidadores, centralizando informaç
 
 
 ## GitHub Stats
-🌟 **Public Repositories:** 4  
-👥 **Followers:** 1  
-👤 **Following:** 1  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesley1812&show_icons=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1812&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
