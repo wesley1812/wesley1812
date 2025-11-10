@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Eu me chamo Wesley Silva, sou um desenvolvedor brasileiro focado em criar soluções impactantes que façam a diferença na vida das pessoas!
+Eu me chamo Wesley Silva, tenho 25 anos e sou um desenvolvedor brasileiro focado em criar soluções impactantes que façam a diferença na vida das pessoas!
 
 ## About Me
 
