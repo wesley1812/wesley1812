@@ -12,7 +12,7 @@ Desenvolvimento Frontend: Atuando como o principal responsável pela interface d
 
 Tecnologias: React para a construção da interface e Tailwind CSS para um design rápido e moderno.
 
-Link para o projeto :https://conecte-care.vercel.app/
+Link para o projeto: https://conecte-care.vercel.app/
 
 ## Connect with Me
 
